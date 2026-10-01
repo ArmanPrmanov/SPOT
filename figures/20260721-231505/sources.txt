@@ -1,0 +1,10 @@
+2026-07-21 23:15:08  mean_completion_vs_tasks_20260719-153332_all  run=20260719-153332 stat=mean include_le=True
+2026-07-21 23:15:09  mean_completion_vs_tasks_20260719-153332_noLE  run=20260719-153332 stat=mean include_le=False
+2026-07-21 23:15:10  total_completion_vs_tasks_20260719-153332_all  run=20260719-153332 stat=total include_le=True
+2026-07-21 23:15:10  total_completion_vs_tasks_20260719-153332_noLE  run=20260719-153332 stat=total include_le=False
+2026-07-21 23:15:11  mean_completion_vs_size_cpu_20260719-153332_n120  run=20260719-153332 n=120 by=cpu bins=6 bin_counts=[np.int64(17), np.int64(22), np.int64(21), np.int64(23), np.int64(20), np.int64(17)]
+2026-07-21 23:15:12  total_completion_vs_size_cpu_20260719-153332_n120  run=20260719-153332 n=120 by=cpu bins=6 bin_counts=[np.int64(17), np.int64(22), np.int64(21), np.int64(23), np.int64(20), np.int64(17)]
+2026-07-21 23:15:13  load_balance_ssp_20260719-153332_n120  run=20260719-153332 n=120 ns=[20, 40, 60, 80, 100, 120] (balanced_/random_*.csv)
+2026-07-21 23:15:15  load_balance_all_20260719-153332_n120  run=20260719-153332 n=120 ns=[20, 40, 60, 80, 100, 120] strategies=POB,POR,BO,JPOFH,EDITORS
+2026-07-21 23:15:16  parallelism_n100  n=100 reps=5 seed=1 means=POB:3.58 POR:3.45 BO:1.00 CO:1.00 LE:1.00 JPOFH:1.99 EDITORS:1.00
+2026-07-21 23:15:59  parallelism_n100  n=100 reps=5 seed=1 means=POB:3.58 POR:3.45 BO:1.00 CO:1.00 LE:1.00 JPOFH:1.99 EDITORS:1.00
